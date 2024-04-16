@@ -1,4 +1,9 @@
 # bigsort
+
+[![Build status](https://ci.appveyor.com/api/projects/status/v5lt859vmjm3v9i5?svg=true)](https://ci.appveyor.com/project/iscod/bigsort)
+[![](https://img.shields.io/github/downloads/iscod/bigsort/total)](https://github.com/iscod/bigsort/releases)
+
+
 Helper Big numbers Sorted Set for redis
 
 # Ask what needs bigsort？
