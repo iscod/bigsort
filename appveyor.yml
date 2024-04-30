@@ -1,6 +1,6 @@
 image: Ubuntu
 
-clone_folder: /usr/go/src/github.com/robGoods/sams
+clone_folder: /usr/go/src/github.com/iscod/bigsort
 
 environment:
   GOPATH: /usr/go/
